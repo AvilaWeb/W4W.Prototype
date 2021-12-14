@@ -1921,7 +1921,7 @@ p {
     color: var(--white);
 }
 .carousel-item {
-  height: 30em;
+/*   height: 30em; */
 box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.096);
 }
 #corousel {
@@ -1933,7 +1933,7 @@ box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.096);
 /* Team */
 @media screen and (max-width: 768px) {
 .container {
-padding-left: 5em;
+/* padding-left: 5em; */
  }
  .card-title{
    text-align: center;
@@ -1952,7 +1952,7 @@ padding-left: 5em;
 .team {
   padding-top: 3em;
   padding-bottom: 3em;
-  padding-left: 3em;
+/*   padding-left: 3em; */
 }
 
 .firstteam {
